@@ -1,1 +1,1 @@
-afile_pfile
+Run directory and get station information.
